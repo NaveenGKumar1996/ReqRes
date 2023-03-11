@@ -1,0 +1,13 @@
+# IntelliJ files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Compiled Java classes
+target/
+bin/
+
+# Logs
+log/
+*.log
