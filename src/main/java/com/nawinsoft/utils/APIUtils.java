@@ -1,14 +1,11 @@
 package com.nawinsoft.utils;
 
-import com.nawinsoft.Constants.FrameworkConstant;
 import com.nawinsoft.reqbuilder.RequestBuilder;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import lombok.SneakyThrows;
 
-import java.io.File;
 import java.nio.file.Files;
-import java.nio.file.Path;
 import java.nio.file.Paths;
 
 import static io.restassured.RestAssured.given;

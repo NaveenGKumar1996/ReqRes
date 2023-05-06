@@ -1,4 +1,4 @@
-package com.nawinsoft.Constants;
+package com.nawinsoft.constants;
 
 import lombok.Getter;
 

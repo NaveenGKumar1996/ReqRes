@@ -22,7 +22,7 @@
         <org-json-version>20230227</org-json-version>
         <jackson-annotation-version>2.14.2</jackson-annotation-version>
         <java-faker-version>1.0.2</java-faker-version>
-
+        <owner-version>1.0.4</owner-version>
     </properties>
 
     <dependencies>
@@ -74,6 +74,12 @@
             <groupId>com.github.javafaker</groupId>
             <artifactId>javafaker</artifactId>
             <version>${java-faker-version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.aeonbits.owner</groupId>
+            <artifactId>owner</artifactId>
+            <version>${owner-version}</version>
         </dependency>
 
     </dependencies>
